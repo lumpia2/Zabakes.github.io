@@ -20,7 +20,10 @@ sass:
 permalink: /:categories/:year-:month-:day/:title.html
 
 # Amount of post to show on home page
-paginate: 3
+paginate: 5
+paginate_path: "/_Posts"
+
+plugins: [jekyll-paginate]
 
 #kramdown:
 #  input: GFM

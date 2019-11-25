@@ -1,9 +1,10 @@
 ---
 layout: post
 categories: posts
-title: ROVER PITT ROCKETRY
-tags: [CAD, Pitt Rocketry]
+title: SWERVE
+tags: [CAD, FTC]
 date-string: FEBRUARY 24, 2019
+featured-image: \images\full_chassis_2018-Jul-30_09-36-50PM-000_CustomizedView31365816533.png
 ---
 
 <center>

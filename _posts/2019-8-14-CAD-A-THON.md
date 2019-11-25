@@ -4,6 +4,7 @@ categories: posts
 title: CAD-A-THON-7
 tags: [CAD]
 date-string: August 14, 2019
+featured-image: \images\robot_with_feild_2019-Aug-05_07-08-00PM-000_CustomizedView8850180720.png
 ---
 
 <center>
