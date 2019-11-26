@@ -4,7 +4,7 @@ title: About
 ---
 
 <p>
-My name is Zachary Colimon. I'm currently a freshman CoE at the University of Pittsburgh. In the past I've done mechanical engineering tasks and so I'm currently looking for internships that will take advantage of those skills. I have lots of CAD/CAM experience, primarily in Fusion 360. THis year as a part of the Pitt rocketry payload team I've made the transition to Solidworks.
+My name is Zachary Colimon. I'm currently a freshman CoE at the University of Pittsburgh. In the past I've done mechanical engineering tasks and so I'm currently looking for internships that will take advantage of those skills. I have lots of CAD/CAM experience, primarily in Fusion 360. This year as a part of the Pitt rocketry payload team I've made the transition to Solidworks.
 </p>
 
 <hr>
