@@ -4,7 +4,7 @@ categories: posts
 title: ROVER PITT ROCKETRY
 tags: [CAD, Pitt Rocketry]
 date-string: FEBRUARY 24, 2019
-featured-image: \images\Screw_wheel_Concept_2019-Oct-11_06-59-26PM-000_CustomizedView16708680559_png_alpha.png
+featured-image: \images\Screw_wheel_Concept_2019-Nov-26_04-41-47AM-000_CustomizedView17627388234_png_alpha (2).png
 ---
 
 <center>
