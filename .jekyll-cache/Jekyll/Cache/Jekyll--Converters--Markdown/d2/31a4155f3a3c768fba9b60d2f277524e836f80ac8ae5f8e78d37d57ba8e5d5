@@ -1,24 +1,19 @@
----
-layout: post
-title: About
----
-
-<p>
+I"¯<p>
 My name is Zachary Colimon. I'm currently a freshman CoE at the University of Pittsburgh. In the past I've done mechanical engineering tasks and so I'm currently looking for internships that will take advantage of those skills. I have lots of CAD/CAM experience, primarily in Fusion 360. This year as a part of the Pitt rocketry payload team I've made the transition to Solidworks.
 </p>
 
-<hr>
-<p>
-<embed src="https://docs.google.com/document/d/e/2PACX-1vRAvKAbTC8AjDLbx0S5TZiLpqZfZBpbRh0uZQB-BlSxnP6EbBhE-WNC0WyAfpN49_b9cfCauDToj1dk/pub?embedded=true" width="100%" height='1390' >
-</p>
-<hr>
-<hr>
+<hr />
+
+<embed src="https://docs.google.com/document/d/e/2PACX-1vRAvKAbTC8AjDLbx0S5TZiLpqZfZBpbRh0uZQB-BlSxnP6EbBhE-WNC0WyAfpN49_b9cfCauDToj1dk/pub?embedded=true" width="100%" />
+
 <p>
 This theme is available for free under the MIT open source software license.
-<br>
+<br />
 The theme can be found <a href="https://github.com/benradford/Slate-and-Simple-Jekyll-Theme">here</a>.
-<br>
+<br />
 The theme requires <a href="https://jekyllrb.com">Jekyll</a>, a static-site generator compatible with <a href="https://pages.github.com">pages.github.com</a>.
 </p>
 
-<hr>
+<hr />
+
+:ET
