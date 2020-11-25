@@ -1,18 +1,9 @@
----
-layout: post
-categories: posts
-title: SOL
-tags: [CAD, FRC 333]
-date-string: FEBRUARY 24, 2019
-featured-image: \images\confetti_2019-Sep-01_05-25-37PM-000_CustomizedView29665510221_png_alpha.png
----
-
-<center>
-<iframe width="100%" height="500" src="//www.youtube.com/embed/rGQU-1sXnhI" frameborder="0" allowfullscreen></iframe>
+I"<center>
+<iframe width="100%" height="500" src="//www.youtube.com/embed/rGQU-1sXnhI" frameborder="0" allowfullscreen=""></iframe>
 </center>
 
 <center>
-<iframe width="100%" height="500" src="https://myhub.autodesk360.com/ue28a0a55/g/shares/SHabee1QT1a327cf2b7a4cb767cd06215f59?mode=embed" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://myhub.autodesk360.com/ue28a0a55/g/shares/SHabee1QT1a327cf2b7a4cb767cd06215f59?mode=embed" frameborder="0" allowfullscreen=""></iframe>
 </center>
 
 <left>
@@ -20,14 +11,15 @@ Sol is FRC 333's 2019 robot. This robot won awards for both it's looks and it's 
 </left>
 
 <center>
-<H1>HATCH PANEL MECHANISM</H1>
+<h1>HATCH PANEL MECHANISM</h1>
 <p>
 The hatch panel mechanism was designed to slide and pivot any way it needed too in order to passively grab a hatch panel from the human player station. The mechanism has an embedded sensor that uses two  LED's and a photosensitive resistor to detect when it has hatch panels in it's possession. When it comes time to let the hatch panel go this mechanism uses a single-acting pneumatic cylinder to release and score the hatch panel. I did the design work for this mechanism and it's embedded sensor.
 </p>
 
-<H1>ROLLER AND CLAW</H1>
+<h1>ROLLER AND CLAW</h1>
 <p>
 The hatch panel mechanism was designed to slide and pivot any way it needed too in order to passively grab a hatch panel from the human player station. The mechanism has an embedded sensor that uses two  LED's and a photosensitive resistor to detect when it has hatch panels in it's possession. When it comes time to let the hatch panel go this mechanism uses a single-acting pneumatic cylinder to release and score the hatch panel. I did the design work for this mechanism and it's embedded sensor.
 </p>
 
 </center>
+:ET
