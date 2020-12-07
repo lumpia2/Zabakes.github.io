@@ -4,12 +4,12 @@ title: About
 ---
 
 <p>
-My name is Zachary Colimon. I'm currently a sophomore CoE at the University of Pittsburgh. I'm also working as a hardware engineer at ZeroDK a startup trying to improve oral hygiene habits. This site is a dump of projects I work on. I normally update it whenever I'm looking for new internships/jobs :).
+My name is Justin Cacal and I am currently in my second year at the University of Pittsburgh. My intended major is Computer Engineering and I am on a Co-op rotation with the company QinetiQ. I am very excited to work with them since it has been a dream to work for a systems and defense company. I want to give back the troops in active duty and risking their lives for our country. In order to accomplish this task, I am willing to put in 100% effort into everything I do and will not stop until it is done right.
 </p>
 
 <hr>
 <p>
-<embed src="https://docs.google.com/document/d/e/2PACX-1vRAvKAbTC8AjDLbx0S5TZiLpqZfZBpbRh0uZQB-BlSxnP6EbBhE-WNC0WyAfpN49_b9cfCauDToj1dk/pub?embedded=true" width="100%" height='1500' >
+<embed src="https://docs.google.com/document/d/1jAwJTSZi-vqJuTCPOLG7AhNZofNa45x45IBxC4qkl4w/edit?usp=sharing" width="100%" height='1500' >
 </p>
 <hr>
 <hr>
