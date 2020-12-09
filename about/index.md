@@ -9,7 +9,7 @@ My name is Justin Cacal and I am currently in my second year at the University o
 
 <hr>
 <p>
-<embed src="https://docs.google.com/document/d/1jAwJTSZi-vqJuTCPOLG7AhNZofNa45x45IBxC4qkl4w/pub?embedded=true" width="100%" height='1500' >
+<embed src="https://docs.google.com/document/d/1jAwJTSZi-vqJuTCPOLG7AhNZofNa45x45IBxC4qkl4w/edit?usp=sharing" width="100%" height='1500' >
 </p>
 <hr>
 <hr>
