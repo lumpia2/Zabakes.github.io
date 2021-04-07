@@ -4,11 +4,14 @@ title: About
 ---
 
 <p>
+<p align="right">
+<img src="../images/self.jpg" alt="Self Image" width="45%" height="45%" class="center">
+</p>
 My name is Justin Cacal and I am currently in my second year at the University of Pittsburgh. My intended major is Computer Engineering and I am on a Co-op rotation with the company QinetiQ. I am very excited to work with them since it has been a dream to work for a systems and defense company. I want to give back the troops in active duty and risking their lives for our country. In order to accomplish this task, I am willing to put in 100% effort into everything I do and will not stop until it is done right. 
 </p>
 
-<!--<img src="../images/self.jpg" alt="Self Image" width="45%" height="45%" class="center">-->
-<img src="../images/graceliu.PNG" alt="hoe" class="center">
+
+<!--<img src="../images/graceliu.PNG" alt="hoe" class="right">-->
 
 <hr>
 <p>
