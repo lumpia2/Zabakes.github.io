@@ -8,6 +8,7 @@ My name is Justin Cacal and I am currently in my second year at the University o
 </p>
 
 <img src="../images/self.jpg" alt="Self Image" width="45%" height="45%" class="center">
+<img src="../images/graceliu.PNG" alt="hoe" class="center">
 
 <hr>
 <p>
