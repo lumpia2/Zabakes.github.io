@@ -1,6 +1,7 @@
-I";<left>
-My friend Zac wrote this script to use dynamic keyboard layers on my MMO mouse. It's completely configurable so if you wanted to you could use it on a standard Numpad. I have been the project manager of this project. The team consists on Zac, Michael, Cody, and I, hence ZMAC. Zac and Cody are computer engineers while Michael and I are civil engineers. Zac and Cody focus a lot on the coding and software part, and now starting to work on a hardware for a future prototype. Michael and I take care of the marketing portion and now working to get a patent. Additionally, as project manager, I always keep the team in check and make sure things run smoothly.
-</left>
+I"Ç<p>
+To shortly describe what the ZMAC Adapt does, it basically configures a typical MMO mouse which can then adapt a set of hotkeys assigned to it depending on the application that the user is working on during that time. The script for this idea was written by a friend of mine, <a href="zacharycolimon.com"> <u> Zachary Colimon</u> </a>, who would later ask <a href="arielholstein.com"> <u>Ariel Holstein</u> </a>, Michael Akinsola, and me to be a part of this creation. Our team consists of two computer engineers, Zac and I, who will focus on optimizing the code and designing the hardware to be used specifically with the software. Ariel and Michael will focus on the CAD and business aspect of the project which involve promotions and collecting user data.
+</p>
+
 <center>
 
 <h1>USE</h1>
@@ -32,7 +33,7 @@ The config checkbox in the top left lets the user specify what keys to toggle on
 <p><a href="https://github.com/Zabakes/togle-script/releases" target="_blank">Download from github</a></p>
 
 <p>
-A lot of this post is taken from zacharycolimon.com, make sure to check his website for more!
+A lot of this post is taken from <a href="zacharycolimon.com"> <u> zacharycolimon.com </u> </a>, make sure to check his website for more!
 </p>
 
 </center>

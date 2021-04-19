@@ -21,7 +21,8 @@ I want to help our soldiers overseas by making robots that limit the amount of t
 
 <hr>
 <p>
-<embed src="https://docs.google.com/document/d/e/2PACX-1vQAMmDtd6XhgYwQqWaZ4ySFE_WiYPf83Esfaa_ktnaohv7coXZZG8YgiMqNvb6eDudcXQZrR1_iEtjc/pub?embedded=true" width="100%" height='1500'>
+<!--<embed src="https://docs.google.com/document/d/e/2PACX-1vQAMmDtd6XhgYwQqWaZ4ySFE_WiYPf83Esfaa_ktnaohv7coXZZG8YgiMqNvb6eDudcXQZrR1_iEtjc/pub?embedded=true" width="100%" height='1500'>-->
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQAMmDtd6XhgYwQqWaZ4ySFE_WiYPf83Esfaa_ktnaohv7coXZZG8YgiMqNvb6eDudcXQZrR1_iEtjc/pub?embedded=true" height="900" width="800"></iframe>
 </p>
 <hr>
 <hr>
