@@ -8,7 +8,7 @@ featured-image: \images\20150629_005942_123-removebg-preview.png
 ---
 
 <p>
-To shortly describe what the ZMAC Adapt does, it basically configures a typical MMO mouse which can then adapt a set of hotkeys assigned to it depending on the application that the user is working on during that time. The script for this idea was written by a friend of mine, <a href="zacharycolimon.com"> <u> Zachary Colimon</u> </a>, who would later ask <a href="arielholstein.com"> <u>Ariel Holstein</u> </a>, Michael Akinsola, and me to be a part of this creation. Our team consists of two computer engineers, Zac and I, who will focus on optimizing the code and designing the hardware to be used specifically with the software. Ariel and Michael will focus on the CAD and business aspect of the project which involve promotions and collecting user data.
+To shortly describe what the ZMAC Adapt does, it basically configures a typical MMO mouse which can then adapt a set of hotkeys assigned to it depending on the application that the user is working on during that time. The script for this idea was written by a friend of mine, <a href="https://zacharycolimon.com"> <u> Zachary Colimon</u> </a>, who would later ask <a href="https://arielholstein.com"> <u>Ariel Holstein</u> </a>, Michael Akinsola, and me to be a part of this creation. Our team consists of two computer engineers, Zac and I, who will focus on optimizing the code and designing the hardware to be used specifically with the software. Ariel and Michael will focus on the CAD and business aspect of the project which involve promotions and collecting user data.
 </p>
 
 <center>
@@ -42,7 +42,7 @@ The config checkbox in the top left lets the user specify what keys to toggle on
 <p><a href="https://github.com/Zabakes/togle-script/releases" target="_blank">Download from github</a></p>
 
 <p>
-A lot of this post is taken from <a href="zacharycolimon.com"> <u> zacharycolimon.com </u> </a>, make sure to check his website for more!
+A lot of this post is taken from <a href="https://zacharycolimon.com"> <u> zacharycolimon.com </u> </a>, make sure to check his website for more!
 </p>
 
 </center>
